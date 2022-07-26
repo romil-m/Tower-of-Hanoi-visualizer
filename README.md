@@ -16,7 +16,6 @@ A screenshot of the puzzle getting solved:
 
 ![image](https://user-images.githubusercontent.com/73889488/181034856-de94de7a-ebbc-4760-b78f-8e5b7fc8ed37.png)
 
-Final 
 Along with the final stage of the puzzle the number of steps in which the puzzle is getting solved is also printed in output along with the movements of the discs in the pegs in the terminal window.
 
 A screenshot of output in terminal: 
