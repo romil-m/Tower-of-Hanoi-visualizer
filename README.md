@@ -6,7 +6,7 @@ Tower of Hanoi is a mathematical puzzle where we have three pegs and n disks. 3 
 2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
 3. No disk may be placed on top of a smaller disk.
 
-To solve Tower of Hanoi programmaticaly recursion is used. 
+To solve Tower of Hanoi programmatically recursion is used. 
 
 Used graphics.py which is a wrapper around Tkinter(https://docs.python.org/3/library/tkinter.html) & should run on any platform where Tkinter is available.
 
