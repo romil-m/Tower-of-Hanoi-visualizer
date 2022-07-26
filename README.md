@@ -1,7 +1,8 @@
 # Tower-of-Hanoi-visualizer
-This is a visualization of the puzzle of Tower of Hanoi which is getting solved for 4 discs ( & 3 pegs).
+This is a visualization of the puzzle of Tower of Hanoi which is getting solved for 4 discs ( & 3 pegs) in Python.
+The solve Tower of Hanoi recursion is used. 
 
-Used graphics.py which is a wrapper around Tkinter and should run on any platform where Tkinter is available.
+Used graphics.py which is a wrapper around Tkinter(https://docs.python.org/3/library/tkinter.html) & should run on any platform where Tkinter is available.
 
 To use the visualizer simply download all the files & do pip install if the modules in python are absent.
 Then run run "Hanoi.py" file. You will be able to see the visualization.
@@ -15,4 +16,4 @@ A screenshot of output in terminal:
 ![image](https://user-images.githubusercontent.com/73889488/181035850-bcb6afa6-e878-4df5-a929-28c0caa7e1ef.png)
 
 In order to change the number of discs open Hanoi.py and make model as [[1,2,3],[],[]] (for 3 discs)
- Then according do changes in the discAttributes & the poles if needed.
+ Then accordingly do changes in the discAttributes & the poles if needed.
